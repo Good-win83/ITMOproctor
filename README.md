@@ -128,3 +128,12 @@ npm run build-app
 По умолчанию сервер доступен по адресу [localhost:3000](http://localhost:3000).
 
 Для администратора логин / пароль: `admin / changeme`
+
+
+## Добавление пользователей,экзаменов, расписаний 
+
+```
+cd ./ITMOproctor/db
+node import.js users.json
+node import.js exams.json
+```
