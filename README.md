@@ -37,6 +37,8 @@
 - [node.js](https://nodejs.org) и [nw.js](https://nwjs.io)
 - [MongoDB](https://www.mongodb.com)
 - [Kurento Media Server](https://www.kurento.org)
+- [nginx](https://nginx.org/)
+
 
 Системные требования:
 
@@ -139,7 +141,7 @@ node import.js exams.json
 ```
 
 
-## Развертывание системы на Ubuntu 14.04 с помощью bash-скрипта:
+## Развертывание системы на Ubuntu 18.04 с помощью bash-скрипта:
 
 ```
 chmod +x ./deploy.sh
