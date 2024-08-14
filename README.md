@@ -38,6 +38,7 @@
 - [MongoDB](https://www.mongodb.com)
 - [Kurento Media Server](https://www.kurento.org)
 - [nginx](https://nginx.org/)
+- [coturn](https://github.com/coturn/coturn)
 
 
 Системные требования:
@@ -53,6 +54,7 @@
 | Дисковое пространство         | 500 МБ/час / сессия                                |
 | Архивирование                 | 100 МБ/час / сессия                                |
 | Транскодирование              | 1 час / 1 час сессии                               |
+| Наличие SSL сертификата       | Обязательно                                        |
 
 Документация:
 - [Оригинальный код *Архивированный репозиторий*](https://github.com/meefik/ITMOproctor)
